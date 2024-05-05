@@ -1,6 +1,6 @@
 package model;
 
-public class Desenvolvedor extends Funcionario implements Trabalhavel{
+public class Desenvolvedor extends Funcionario {
 
     private String tecnDom;
     private float bonusDev;

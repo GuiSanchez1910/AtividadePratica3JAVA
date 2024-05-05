@@ -1,6 +1,6 @@
 package model;
 
-public class Gerente extends Funcionario implements Trabalhavel{
+public class Gerente extends Funcionario {
 
     private String equipe;
     private float bonusGer;
